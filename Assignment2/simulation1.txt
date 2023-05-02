@@ -1,0 +1,304 @@
+[(1, 2, 2), (0, 7, 3), (3, 12, 2), (2, 17, 2)]
+Current time: 0
+[0] Server 0: idle
+[0] Server 1: idle
+
+[(1, 2, 2), (0, 7, 3), (3, 12, 2), (2, 17, 2)]
+Current time: 1
+[0] Server 0: idle
+[0] Server 1: idle
+
+[(0, 7, 3), (3, 12, 2), (2, 17, 2)]
+Current time: 2
+[2] Server 0: (1, 2, 2); 
+[0] Server 1: idle
+
+[(0, 7, 3), (3, 12, 2), (2, 17, 2)]
+Current time: 3
+[2] Server 0: (1, 2, 2); 
+[0] Server 1: idle
+
+[(0, 7, 3), (3, 12, 2), (2, 17, 2)]
+Current time: 4
+[0] Server 0: idle
+[0] Server 1: idle
+
+[(0, 7, 3), (3, 12, 2), (2, 17, 2)]
+Current time: 5
+[0] Server 0: idle
+[0] Server 1: idle
+
+[(0, 7, 3), (3, 12, 2), (2, 17, 2)]
+Current time: 6
+[0] Server 0: idle
+[0] Server 1: idle
+
+[(3, 12, 2), (2, 17, 2)]
+Current time: 7
+[3] Server 0: (0, 7, 3); 
+[0] Server 1: idle
+
+[(3, 12, 2), (2, 17, 2)]
+Current time: 8
+[3] Server 0: (0, 7, 3); 
+[0] Server 1: idle
+
+[(3, 12, 2), (2, 17, 2)]
+Current time: 9
+[3] Server 0: (0, 7, 3); 
+[0] Server 1: idle
+
+[(3, 12, 2), (2, 17, 2)]
+Current time: 10
+[0] Server 0: idle
+[0] Server 1: idle
+
+[(3, 12, 2), (2, 17, 2)]
+Current time: 11
+[0] Server 0: idle
+[0] Server 1: idle
+
+[(2, 17, 2)]
+Current time: 12
+[2] Server 0: (3, 12, 2); 
+[0] Server 1: idle
+
+[(2, 17, 2)]
+Current time: 13
+[2] Server 0: (3, 12, 2); 
+[0] Server 1: idle
+
+[(2, 17, 2)]
+Current time: 14
+[0] Server 0: idle
+[0] Server 1: idle
+
+[(2, 17, 2)]
+Current time: 15
+[0] Server 0: idle
+[0] Server 1: idle
+
+[(2, 17, 2)]
+Current time: 16
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 17
+[2] Server 0: (2, 17, 2); 
+[0] Server 1: idle
+
+[]
+Current time: 18
+[2] Server 0: (2, 17, 2); 
+[0] Server 1: idle
+
+[]
+Current time: 19
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 20
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 21
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 22
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 23
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 24
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 25
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 26
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 27
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 28
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 29
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 30
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 31
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 32
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 33
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 34
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 35
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 36
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 37
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 38
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 39
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 40
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 41
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 42
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 43
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 44
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 45
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 46
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 47
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 48
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 49
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 50
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 51
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 52
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 53
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 54
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 55
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 56
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 57
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 58
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 59
+[0] Server 0: idle
+[0] Server 1: idle
+
+[]
+Current time: 60
+[0] Server 0: idle
+[0] Server 1: idle
